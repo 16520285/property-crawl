@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c14556ab-9b93-4883-ba8f-6d50f29ffeec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gBjmK4AaeXona8voQ7Pl5Ig1mS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c14556ab-9b93-4883-ba8f-6d50f29ffeec" name="Default Changelist" comment="" />
+      <created>1597595036911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597595036911</updated>
+      <workItem from="1597595038341" duration="385000" />
+      <workItem from="1597759143366" duration="4027000" />
+      <workItem from="1597847106627" duration="5817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="151" key="#Notifications" timestamp="1597851314766">
+      <screen x="0" y="23" width="1920" height="925" />
+    </state>
+    <state x="583" y="151" key="#Notifications/0.23.1920.925@0.23.1920.925" timestamp="1597851314766" />
+    <state x="747" y="295" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597761957482">
+      <screen x="0" y="23" width="1920" height="925" />
+    </state>
+    <state x="747" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.925@0.23.1920.925" timestamp="1597761957482" />
+    <state x="501" y="126" key="SettingsEditor" timestamp="1597851340783">
+      <screen x="0" y="23" width="1920" height="925" />
+    </state>
+    <state x="501" y="126" key="SettingsEditor/0.23.1920.925@0.23.1920.925" timestamp="1597851340783" />
+    <state x="501" y="127" key="SettingsEditor/0.23.1920.931@0.23.1920.931" timestamp="1597595199791" />
+    <state x="187" y="123" width="1610" height="725" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597848942965">
+      <screen x="0" y="23" width="1920" height="925" />
+    </state>
+    <state x="187" y="123" width="1610" height="725" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1920.925@0.23.1920.925" timestamp="1597848942965" />
+    <state x="657" y="225" width="670" height="676" key="search.everywhere.popup" timestamp="1597847832568">
+      <screen x="0" y="23" width="1920" height="925" />
+    </state>
+    <state x="657" y="225" width="670" height="676" key="search.everywhere.popup/0.23.1920.925@0.23.1920.925" timestamp="1597847832568" />
+  </component>
+</project>
